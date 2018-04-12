@@ -1,0 +1,61 @@
+layout_spectrum: 0.0856666468251681
+typography_spectrum: 0.06820278330466313
+color:
+  brandColors:
+    - '#050402'
+    - '#393035'
+    - '#93614A'
+    - '#973C07'
+    - '#EF630E'
+  brandStrength: 0.43878932807216475
+  lightness: 0.5336895004732738
+  saturation: 0.7524919813835421
+  rhythmicContrast: 0.9786421323479106
+name: 'Ultimate Dream Enterprises  '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: 'Our business is your business '
+    url: 'https://www.ultimatedreamenterprises.com'
+    type: external
+title: 'Ultimate Dream Enterprises  '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e90c10d-0047-48f4-b1b3-484af78558f8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e90c10d-0047-48f4-b1b3-484af78558f8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Ultimate Dream Enterprises 1520 E. Covell SuiteB5 - 430 Davis, CA 95616 PHONE
+  833-915-5399 FAX 888-939-4159 Jim@UltimateDreamEnterprises.Com
+author:
+  name: Jim Meyer
+  email: meyerjames@Aol.com
+url: 'https://ultimatedreamenterprises.com/'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/23ecb76e-1128-4b29-80fd-904bf0e576fc.jpg
+github: true
